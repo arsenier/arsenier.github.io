@@ -1,3 +1,6 @@
 [submodule "on_control_system_architectures"]
 	path = on_control_system_architectures
 	url = git@github.com:arsenier/on_control_system_architectures.git
+[submodule "PobeditelRTK"]
+	path = PobeditelRTK
+	url = git@github.com:arsenier/PobeditelRTK.git
