@@ -8,3 +8,4 @@
 0. [Обзор архитектур систем управления](on_control_system_architectures/REPORT.md)
 0. [Система управления роботом Лапчик](PobeditelRTK/REPORT.html)
 0. [Архитектуры систем управления роботами теория и практика](on_control_system_architectures/Архитектуры_систем_управления_роботами_теория_и_практика_2.pdf)
+0. [Система управления роботом на всенаправленной платформе команды Eagles](eagle_control/eagle_control.pdf)
