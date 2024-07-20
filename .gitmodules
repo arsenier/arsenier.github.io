@@ -4,3 +4,6 @@
 [submodule "PobeditelRTK"]
 	path = PobeditelRTK
 	url = git@github.com:arsenier/PobeditelRTK.git
+[submodule "dc_motor_masterclass"]
+	path = dc_motor_masterclass
+	url = git@github.com:arsenier/dc_motor_masterclass.git

@@ -9,5 +9,5 @@
 0. [Система управления роботом Лапчик](PobeditelRTK/REPORT.html)
 0. [Архитектуры систем управления роботами теория и практика](on_control_system_architectures/Архитектуры_систем_управления_роботами_теория_и_практика_2.pdf)
 0. [Система управления роботом на всенаправленной платформе команды Eagles](eagle_control/eagle_control.pdf)
-0. [Управление двигателем постоянного тока с использованием полной точности энкодера](masterclass2/MASTERCLASS.md)
+0. [Управление двигателем постоянного тока с использованием полной точности энкодера](dc_motor_masterclass/MASTERCLASS.md)
 0. [Настройка прерываний PIN CHANGE INTERRUPT](pin_change_interrupts/PCINT.md)
