@@ -4,7 +4,7 @@
 > 
 > telegram: @arsenis, email: yarmolinskiyam@gmail.com
 
-0. [Использование параметрических функций для описания периодических процессов](periodic_leds/periodic_leds.pdf)
+0. [Использование параметрических функций для описания периодических процессов](periodic_leds/periodic_leds_rev2.pdf)
 0. [Обзор архитектур систем управления](on_control_system_architectures/REPORT.md)
 0. [Система управления роботом Лапчик](PobeditelRTK/REPORT.html)
 0. [Архитектуры систем управления роботами теория и практика](on_control_system_architectures/Архитектуры_систем_управления_роботами_теория_и_практика_2.pdf)
