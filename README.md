@@ -1,7 +1,7 @@
 # Блог Арсения Ярмолинского
 
 > Ярмолинский Арсений Маркович, студент магистратуры СПбПУ им. Петра Великого, учитель информатики, педагог дополнительного образования
-> 
+>
 > telegram: @arsenis, email: yarmolinskiyam@gmail.com
 
 0. [Использование параметрических функций для описания периодических процессов](periodic_leds/periodic_leds_rev2.pdf)
@@ -11,3 +11,4 @@
 0. [Система управления роботом на всенаправленной платформе команды Eagles](eagle_control/eagle_control.pdf)
 0. [Управление двигателем постоянного тока с использованием полной точности энкодера](dc_motor_masterclass/MASTERCLASS.md)
 0. [Настройка прерываний PIN CHANGE INTERRUPT](pin_change_interrupts/PCINT.md)
+0. [Константные ссылки вместо геттеров в C++](robot_firmware/device_out/DEVICE_OUT.md)
