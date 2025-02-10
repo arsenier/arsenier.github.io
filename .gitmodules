@@ -7,3 +7,6 @@
 [submodule "dc_motor_masterclass"]
 	path = dc_motor_masterclass
 	url = git@github.com:arsenier/dc_motor_masterclass.git
+[submodule "robot_firmware/tauriel-asmr"]
+	path = robot_firmware/tauriel-asmr
+	url = git@github.com:arsenier/tauriel-asmr.git
