@@ -15,3 +15,7 @@
 0. [Хранилище лабиринта для соревнований MicroMouse](robot_firmware/tauriel-asmr/doc/Maze.md)
 0. [Движение робота по траектории](robot_firmware/Trajectories.md)
 
+## Оффтопик
+
+0. [Установка TotalCommander как менеджера файлов по умолчанию в Windows](tc_default/default_total_commander_in_windows.md)
+
