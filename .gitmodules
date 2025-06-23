@@ -10,3 +10,6 @@
 [submodule "robot_firmware/tauriel-asmr"]
 	path = robot_firmware/tauriel-asmr
 	url = git@github.com:arsenier/tauriel-asmr.git
+[submodule "serialBenchmark"]
+	path = serialBenchmark
+	url = git@github.com:arsenier/serialBenchmark.git
