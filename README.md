@@ -14,6 +14,7 @@
 0. [Константные ссылки вместо геттеров в C++](robot_firmware/device_out/DEVICE_OUT.md)
 0. [Хранилище лабиринта для соревнований MicroMouse](robot_firmware/tauriel-asmr/doc/Maze.md)
 0. [Движение робота по траектории](robot_firmware/Trajectories.md)
+0. [Эксперименты с временем отправки данных по Serial](serialBenchmark/serialBenchmark.md)
 
 ## Оффтопик
 
