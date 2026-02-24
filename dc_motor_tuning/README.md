@@ -135,18 +135,32 @@ float speed_controller(float target_vel, float current_angle)
 
 Ниже приведены примерные звуки разгона двигателя с разными постоянными времени, от 0.1с до 1с.
 
-<audio>
+`T = 0.1s`
+
+<video controls width="300" height="50">
       <source src="sound/T01s.wav" type="audio/wav">
-</audio>
-<audio>
+</video>
+
+`T = 0.2s`
+
+<video controls width="300" height="50">
       <source src="sound/T02s.wav" type="audio/wav">
-</audio>
-<audio>
+</video>
+
+`T = 0.3s`
+
+<video controls width="300" height="50">
       <source src="sound/T03s.wav" type="audio/wav">
-</audio>
-<audio>
+</video>
+
+`T = 0.5s`
+
+<video controls width="300" height="50">
       <source src="sound/T05s.wav" type="audio/wav">
-</audio>
-<audio>
+</video>
+
+`T = 1.0s`
+
+<video controls width="300" height="50">
       <source src="sound/T1s.wav" type="audio/wav">
-</audio>
+</video>
