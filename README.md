@@ -16,6 +16,7 @@
 0. [Движение робота по траектории](robot_firmware/Trajectories.md)
 0. [Эксперименты с временем отправки данных по Serial](serialBenchmark/serialBenchmark.md)
 0. [ArGVIZ - телеметрия для роботов это просто](argviz_robofinist/argviz.md)
+0. [Настройка регулятора скорости на моторе постоянного тока](dc_motor_tuning/README.md)
 
 ## Оффтопик
 
